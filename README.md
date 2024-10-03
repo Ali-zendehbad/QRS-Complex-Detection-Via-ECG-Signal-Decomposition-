@@ -1,0 +1,3 @@
+QRS Complex Detection Via ECG Signal Decomposition
+
+This repository contains the source code for the project titled "QRS Complex Detection Via ECG Signal Decomposition".The files are provided in a compressed (ZIP) format for ease of download and transfer. After extracting the files, please use MATLAB 2016 or later versions to run the `Main Code` file. The code is designed to accurately identify QRS complexes within the ECG signal through a series of advanced signal decomposition techniques, making it suitable for both adult and fetal ECG analysis. Detailed documentation for each script and function is included in the comments within the code files.
